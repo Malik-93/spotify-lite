@@ -38,29 +38,29 @@ You need to build from source. See [development](#Development).
 
 iOS
 
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/iphone11/splash.png"> <img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/iphone11/home.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/iphone11/explore.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/iphone11/favorites.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/iphone11/playlist.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/iphone11/related-artists.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/iphone11/genre.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/iphone11/search-history.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/iphone11/results.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/iphone11/search.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/iphone11/see-all-songs.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/splash.png"> <img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/home.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/explore.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/favorites.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/playlist.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/related-artists.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/genre.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/search-history.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/results.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/search.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/see-all-songs.png">
 
 ### Android
 
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/pixel3/splash.png"> <img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/pixel3/home.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/pixel3/explore.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/pixel3/favorites.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/pixel3/playlist.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/pixel3/related-artists.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/pixel3/genre.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/pixel3/search-history.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/pixel3/results.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/pixel3/search.png">
-<img width="288px" src="https://github.com/Malik-93/spotify-lite/raw/master/docs/assets/screenshots/pixel3/see-all-songs.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/pixel3/splash.png"> <img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/pixel3/home.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/pixel3/explore.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/pixel3/favorites.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/pixel3/playlist.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/pixel3/related-artists.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/pixel3/genre.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/pixel3/search-history.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/pixel3/results.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/pixel3/search.png">
+<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/pixel3/see-all-songs.png">
 
 ## Development
 
@@ -79,7 +79,7 @@ npx react-native run-android
 
 ```
 
-You can also refer to available [npm scripts](https://github.com/Malik-93/spotify-lite/blob/b8f763b48ec95ed7e1b4cacfae750b57051cd68e/package.json#L5).
+You can also refer to available [npm scripts](https://github.com/osamaq/spotify-lite/blob/b8f763b48ec95ed7e1b4cacfae750b57051cd68e/package.json#L5).
 
 
 ## TODO
